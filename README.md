@@ -6,5 +6,5 @@ This program is written in python using flask framework
 step 1: run the python script 
 step 2: test the api using postman or your web browser
 
-#make sure that your database name is car and your collection name is carinfo
-#mock the database that is in the repository
+#make sure that your database name is info and your collection name is carinfo
+#mock the database that is in the repository named carinfo.json
