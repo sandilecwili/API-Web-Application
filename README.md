@@ -1,10 +1,9 @@
 
  
 # blueraintech
-This program is written in python using flask framework
- for this project you first have to create a nosql database that has all the required information to be retrieved by an API
+This program is written in python using flask framework. Download the file named updatedProject for it has all the files needed to run this project
 step 1: run the python script 
-step 2: test the api using postman or your web browser
+step 2: post your API that consists of 'username' and 'password' using postman
+step 3: run the web app on http://192.168.8.101:5000/ 
 
-#make sure that your database name is info and your collection name is carinfo
-#mock the database that is in the repository named carinfo.json
+#make use of the screenshots on the 'screenshots' for demonstration
